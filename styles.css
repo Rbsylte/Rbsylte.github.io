@@ -44,3 +44,8 @@
 main {
     padding: 80px 32px;
 }
+
+.external::after {
+    content: " â†—";
+    font-size: 0.9em;
+}
